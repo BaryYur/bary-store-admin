@@ -1,5 +1,6 @@
 "use client";
 
+// @ts-ignore
 import { Plus } from "lucide-react";
 import { useParams, useRouter } from "next/navigation";
 

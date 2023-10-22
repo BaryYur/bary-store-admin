@@ -2,6 +2,7 @@
 
 import axios from "axios";
 import { useState } from "react";
+// @ts-ignore
 import { Copy, Edit, MoreHorizontal, Trash } from "lucide-react";
 import { toast } from "react-hot-toast";
 import { useParams, useRouter } from "next/navigation";

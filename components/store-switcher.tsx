@@ -1,6 +1,7 @@
 "use client"
 
 import * as React from "react"
+// @ts-ignore
 import { Check, ChevronsUpDown, PlusCircle, Store } from "lucide-react"
 
 import { cn } from "@/lib/utils"

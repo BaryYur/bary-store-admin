@@ -1,3 +1,4 @@
+// @ts-ignore
 import { CreditCard, LogOut, PlusCircle, Settings, User } from "lucide-react"
 
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"

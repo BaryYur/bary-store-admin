@@ -1,3 +1,4 @@
+// @ts-ignore
 import { CreditCard, DollarSign, Package } from "lucide-react";
 
 import { Separator } from "@/components/ui/separator";

@@ -5,6 +5,7 @@ import axios from "axios"
 import { zodResolver } from "@hookform/resolvers/zod"
 import { useForm } from "react-hook-form"
 import { toast } from "react-hot-toast"
+// @ts-ignore
 import { Trash } from "lucide-react"
 import { Store } from "@prisma/client"
 import { useParams, useRouter } from "next/navigation"
